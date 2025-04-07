@@ -1,0 +1,49 @@
+{
+  "name": "com.unity.2d.spriteshape",
+  "version": "9.0.5",
+  "unity": "2022.2",
+  "displayName": "2D SpriteShape",
+  "description": "SpriteShape Runtime & Editor Package contains the tooling and the runtime component that allows you to create very organic looking spline based 2D worlds. It comes with intuitive configurator and a highly performant renderer.",
+  "keywords": [
+    "2d",
+    "shape",
+    "spriteshape",
+    "smartsprite",
+    "spline",
+    "terrain2d"
+  ],
+  "category": "2D",
+  "dependencies": {
+    "com.unity.mathematics": "1.1.0",
+    "com.unity.2d.common": "8.0.4",
+    "com.unity.modules.physics2d": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Sprite Shape Samples",
+      "description": "Samples to get started with SpriteShape",
+      "path": "Samples~/Samples"
+    },
+    {
+      "displayName": "Sprite Shape Extras",
+      "description": "This sample has utility scripts that has various use-cases of SpriteShape",
+      "path": "Samples~/Extras"
+    }
+  ],
+  "relatedPackages": {
+    "com.unity.2d.spriteshape.tests": "9.0.5",
+    "com.unity.2d.common.tests": "8.0.4"
+  },
+  "_upm": {
+    "changelog": "### Fixed\n- DANB-730 \"System.IndexOutOfRangeException\" is thrown when increasing Sprite Shape Mesh size beyond limits"
+  },
+  "upmCi": {
+    "footprint": "487afe9487bad3d7777c17e05e3cdefdb13cb98b"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@9.0/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/2d.git",
+    "type": "git",
+    "revision": "8a1c28ecd445416882b23beb7707d3d60b153f79"
+  }
+}

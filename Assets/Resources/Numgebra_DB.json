@@ -1,0 +1,219 @@
+{
+  "levels": [
+    {
+      "level_id": 1,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 4
+    },
+    {
+      "level_id": 2,
+      "playable": true,
+      "stars": 2,
+      "replaytimes": 0
+    },
+    {
+      "level_id": 3,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 4
+    },
+    {
+      "level_id": 4,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 1
+    },
+    {
+      "level_id": 5,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 1
+    },
+    {
+      "level_id": 6,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 2
+    },
+    {
+      "level_id": 7,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 1
+    },
+    {
+      "level_id": 8,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 0
+    },
+    {
+      "level_id": 9,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 10,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 11,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 2
+    },
+    {
+      "level_id": 12,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 13,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 0
+    },
+    {
+      "level_id": 14,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 1
+    },
+    {
+      "level_id": 15,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 0
+    },
+    {
+      "level_id": 16,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 17,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 0
+    },
+    {
+      "level_id": 18,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 19,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 20,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 21,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 22,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 23,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 1
+    },
+    {
+      "level_id": 24,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 25,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 0
+    },
+    {
+      "level_id": 26,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 27,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 28,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 2
+    },
+    {
+      "level_id": 29,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 30,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 31,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 32,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 33,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 34,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": -1
+    },
+    {
+      "level_id": 35,
+      "playable": true,
+      "stars": 1,
+      "replaytimes": 0
+    }
+  ],
+  "player": [
+    {
+      "gender": "female"
+    }
+  ]
+}
