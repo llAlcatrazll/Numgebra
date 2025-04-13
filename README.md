@@ -1,4 +1,4 @@
-# 📚 MathQuest: Learn While You Play!
+# 📚 Numgebra: Learn While You Play!
 
 > A 2D mobile educational game designed to make learning math fun and interactive for kids. Built with Unity and powered by SQLite for smooth progress tracking.
 
